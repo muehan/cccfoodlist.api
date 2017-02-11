@@ -1,0 +1,19 @@
+{
+  "name": "cccfoodlistapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muehan/cccfoodlistapi.git"
+  },
+  "author": "tdc@gmx.ch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muehan/cccfoodlistapi/issues"
+  },
+  "homepage": "https://github.com/muehan/cccfoodlistapi#readme"
+}
